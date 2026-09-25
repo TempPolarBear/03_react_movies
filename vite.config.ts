@@ -3,6 +3,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   plugins: [react()],
+  envPrefix: ['VITE_', 'TMDB_TOKEN'],
   build: {
     rollupOptions: {
       onwarn(warning, defaultHandler) {
