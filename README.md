@@ -1,13 +1,13 @@
 # Movie Search
 
-React-приложение для поиска фильмов через TMDB.
+A React application for searching movies through TMDB.
 
 ## Features
 
-- Поиск фильмов по запросу
-- Сетка результатов и просмотр выбранного фильма в модальном окне
-- Состояния загрузки и ошибки
-- Уведомление, если результаты не найдены
+- Movie search by query
+- Results grid and selected-movie details in a modal
+- Loading and error states
+- Notification when no results are found
 
 ## Technologies
 
